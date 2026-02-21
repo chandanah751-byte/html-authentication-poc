@@ -10,10 +10,6 @@ This is my first HTML project. I created basic authentication-related pages like
 - reset-password.html
 - dashboard.html
 
-## How to Run
-
-Open login.html in your browser and navigate using the links.
-
 ## Technologies Used
 
 - HTML
