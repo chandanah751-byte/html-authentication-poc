@@ -15,7 +15,7 @@ It was built as part of a web development assignment to practice Bootstrap integ
 ## 📁 Project Files
 
 ```
-project/
+authentication-system-styled/
 │
 ├── login.html           → Login page
 ├── register.html        → Register / Sign up page
